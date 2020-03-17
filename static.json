@@ -1,0 +1,22 @@
+{
+    "root": "public/",
+    "headers": {
+      "/**": {
+        "Cache-Control": "public, max-age=31536000, immutable"
+      },
+      "/**.icons": {
+        "Cache-Control": "public, max-age=31536000, immutable"
+      },
+      "/**.page-data/**": {
+        "Cache-Control": "public, max-age=0, must-revalidate"
+      },
+      "/static/**": {
+        "Cache-Control": "reactnext-gatsby-performance.001-a3e9d70183ff294e097c4319d0f8cff6-0b1ba.png"
+      },
+      "/index.html": {
+        "Cache-Control": "public, max-age=0, must-revalidate"
+      }
+    },
+    "https_only": true,
+    "error_page": "404.html"
+  }
