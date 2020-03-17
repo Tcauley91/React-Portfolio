@@ -19,7 +19,7 @@ export default () => (
               tools
               image {
                 childImageSharp{
-                    sizes(maxWidth: 590) {
+                    sizes(maxWidth: 600) {
                         ...GatsbyImageSharpSizes
                     }
                 }

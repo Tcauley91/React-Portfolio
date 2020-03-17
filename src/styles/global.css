@@ -259,11 +259,11 @@ header {
 }
 
 .project-image-container {
-    width: 30%;
+    width: 60%;
 }
 
 .project-image {
-    height: 400px;
+    width: 100%
 }
 
 

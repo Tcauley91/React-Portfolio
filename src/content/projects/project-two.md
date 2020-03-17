@@ -1,7 +1,7 @@
 ---
-type: "App Redesign"
-title: "Instagram Redesign"
-description: "Conducted research to determine how Instagram could improve their user experience, introduce new features and rebrand themselves."
-tools: "Figma Sketch InVision Flutter Swift C#" 
-image: "../../images/demo-pic.jpg"
+type: "Web App"
+title: "Note Taker"
+description: "A NodeJS App populated dynamically with JavaScript. Upon entering, click continue. On the note taking page; you can title your individual notes, save and delete once the note has been fulfilled."
+tools: "NodeJS JavaScript HTML ExpressJS CSS" 
+image: "../../images/notetaker.jpg"
 ---

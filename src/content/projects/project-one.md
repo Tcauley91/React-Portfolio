@@ -1,7 +1,7 @@
 ---
 type: "Web App"
-title: "Think Outside The Box "
-description: "This will be where I talk about the project, the process and the outcome. This will be where I talk about the project, the process and the outcome."
-tools: ReactJS CSS Netlify GatsbyJS GraphQL HTML
-image: "../../images/demo-pic.jpg"
+title: "Feed Me!"
+description: "Feed Me is a solution to the hardest question of the day; what am I going to eat? Feed Me can populate nearby restaurants or if you are would prefer to cook; it can produce over 360,000 recipes."
+tools: JavaScript jQuery CSS Foundation Spoonacular API Zomato API HTML
+image: "../../images/feedme.jpg"
 ---
