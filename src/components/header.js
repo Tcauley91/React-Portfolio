@@ -1,6 +1,5 @@
 
 import React from "react"
-import InstagramSVG from "../Icons/InstagramSVG"
 import LinkedInSVG from "../Icons/LinkedInSVG"
 import MailSVG from "../Icons/MailSVG"
 import GithubSVG from "../Icons/GithubSVG"
@@ -29,19 +28,15 @@ const Header = ({ siteTitle }) => (
       
       
       <div className="icons-container">
-            <a href="mailto:someone@yoursite.com">
+            <a href="mailto:tylerdevelopethis@ygmail.com">
               <MailSVG />
             </a>
 
-            <a href="https://www.instagram.com/">
-              <InstagramSVG />
-            </a>
-
-            <a href="https://www.linkedin.com/">
+            <a href="https://www.linkedin.com/in/brandon-tyler-cauley/">
               <LinkedInSVG />
             </a>
 
-            <a href="https://github.com/">
+            <a href="https://github.com/Tcauley91">
               <GithubSVG />
             </a>
       </div>
