@@ -1,11 +1,11 @@
 var plugins = [{
-      plugin: require('/Users/tylercauley/Desktop/gatsby-starter-keturah/React-Portfolio/node_modules/gatsby-remark-images/gatsby-ssr'),
+      plugin: require('/Users/tylercauley/Desktop/Homeworks/React-Portfolio/node_modules/gatsby-remark-images/gatsby-ssr'),
       options: {"plugins":[],"maxWidth":590},
     },{
-      plugin: require('/Users/tylercauley/Desktop/gatsby-starter-keturah/React-Portfolio/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('/Users/tylercauley/Desktop/Homeworks/React-Portfolio/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"maxWidth":300,"name":"gatsby-starter-default","short_name":"starter","start_url":"/","background_color":"#663399","theme_color":"#663399","display":"minimal-ui","icon":"src/images/gatsby-icon.png"},
     },{
-      plugin: require('/Users/tylercauley/Desktop/gatsby-starter-keturah/React-Portfolio/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/Users/tylercauley/Desktop/Homeworks/React-Portfolio/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
