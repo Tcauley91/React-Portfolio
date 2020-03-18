@@ -2,9 +2,9 @@
 
 
 
-<img src="./src/images/Screenshot.jpg" alt="sc1"/>
-<img src="./src/images/Screenshot2.jpg" alt="sc2"/>
-<img src="./src/images/Screenshot3.jpg" alt="sc3"/>
+<img src="./src/images/ScreenShot.jpg" alt="sc1"/>
+<img src="./src/images/ScreenShot2.jpg" alt="sc2"/>
+<img src="./src/images/ScreenShot3.jpg" alt="sc3"/>
 
 
 https://reactportfolio-staging.herokuapp.com/
